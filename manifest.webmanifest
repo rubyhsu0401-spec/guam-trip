@@ -1,6 +1,6 @@
 {
- "name": "關島五日遊旅伴手冊",
- "short_name": "關島旅伴",
+ "name": "關島五日遊手冊",
+ "short_name": "關島五日遊",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
